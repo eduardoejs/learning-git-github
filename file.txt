@@ -3,3 +3,7 @@ line 2
 line 3
 line 4
 content
+body
+section
+aside
+footer

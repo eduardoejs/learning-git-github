@@ -1,0 +1,4 @@
+a example pull rebase without conflicts
+add new line
+remove remote branch 
+test1
